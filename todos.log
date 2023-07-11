@@ -1,0 +1,116 @@
+11-07-2023 14:30:52.546 info: Creating new TODO with Title [e] | request #undefined
+11-07-2023 14:42:45.336 info: Creating new TODO with Title [e] | request #1
+11-07-2023 14:48:12.920 info: Creating new TODO with Title [a] | request #2
+11-07-2023 14:51:52.655 INFO Creating new TODO with Title [a] | request #1
+11-07-2023 14:54:06.312 INFO: Creating new TODO with Title [a] | request #1
+11-07-2023 14:54:49.640 INFO: Creating new TODO with Title [v] | request #2
+11-07-2023 14:55:06.814 INFO: Creating new TODO with Title [i] | request #3
+11-07-2023 14:55:48.356 INFO: Total TODOs count for state ALL is 3 | request #4
+11-07-2023 14:57:13.628 INFO: Extracting todos content. Filter: ALL | Sorting by: ID | request #5
+11-07-2023 15:00:53.242 INFO: Update TODO id [1] state to LATE | request #6
+11-07-2023 15:01:44.772 INFO: Removing todo id 1 | request #7
+11-07-2023 18:01:20.218 INFO: Creating new TODO with Title [i] | request #1
+11-07-2023 18:02:01.418 INFO: Total TODOs count for state ALL is 1 | request #2
+11-07-2023 18:03:05.072 INFO: Extracting todos content. Filter: PENDING | Sorting by: TITLE | request #3
+11-07-2023 18:06:50.060 INFO: Creating new TODO with Title [undefined] | request #4
+11-07-2023 18:07:50.507 ERROR: Error: Error: no such TODO with id 5 | request #5
+11-07-2023 18:11:42.195 INFO: Creating new TODO with Title [i] | request #1
+11-07-2023 18:13:02.310 INFO: Total TODOs count for state ALL is 1 | request #2
+11-07-2023 18:14:42.207 INFO: Total TODOs count for state PENDING is 1 | request #3
+11-07-2023 18:15:35.757 INFO: Extracting todos content. Filter: PENDING | Sorting by: TITLE | request #4
+11-07-2023 18:16:51.277 ERROR: Error: Error: no such TODO with id 5 | request #5
+11-07-2023 18:18:13.625 INFO: Creating new TODO with Title [Reception hours for kaplat] | request #6
+11-07-2023 18:43:22.163 INFO: Creating new TODO with Title [Reception hours for kaplat] | request #1
+11-07-2023 18:43:22.164 DEBUG: Currently there are 0 TODOs in the system. New TODO will be assigned with id 1 | request #1
+11-07-2023 18:44:52.456 INFO: Total TODOs count for state ALL is 1 | request #2
+11-07-2023 18:45:53.662 INFO: Extracting todos content. Filter: PENDING | Sorting by: TITLE | request #3
+11-07-2023 18:45:53.664 DEBUG: There are a total of 1 todos in the system. The result holds 1 todos | request #3
+11-07-2023 18:47:29.313 ERROR: Error: no such TODO with id 5 | request #4
+11-07-2023 18:49:41.044 INFO: Creating new TODO with Title [Reception hours for kt] | request #5
+11-07-2023 18:49:41.048 DEBUG: Currently there are 1 TODOs in the system. New TODO will be assigned with id 2 | request #5
+11-07-2023 18:50:34.790 INFO: Total TODOs count for state PENDING is 2 | request #6
+11-07-2023 18:51:04.950 INFO: Removing todo id 2 | request #7
+11-07-2023 18:51:04.951 DEBUG: After removing todo id [2] there are 1 TODOs in the system | request #7
+11-07-2023 18:54:00.412 INFO: Update TODO id [1] state to LATE | request #8
+11-07-2023 18:54:00.414 DEBUG: Todo id [1] state change: PENDING --> LATE | request #8
+11-07-2023 18:55:04.044 INFO: Extracting todos content. Filter: LATE | Sorting by: ID | request #9
+11-07-2023 18:55:04.046 DEBUG: There are a total of 1 todos in the system. The result holds 1 todos | request #9
+11-07-2023 18:57:45.140 INFO: Extracting todos content. Filter: ALL | Sorting by: ID | request #10
+11-07-2023 18:57:45.141 DEBUG: There are a total of 1 todos in the system. The result holds 1 todos | request #10
+11-07-2023 21:42:54.151 INFO: Creating new TODO with Title [gg] | request #1
+11-07-2023 21:42:54.154 DEBUG: Currently there are 0 TODOs in the system. New TODO will be assigned with id 1 | request #1
+11-07-2023 21:47:01.511 INFO: Creating new TODO with Title [ggjj] | request #1
+11-07-2023 21:47:01.512 DEBUG: Currently there are 0 TODOs in the system. New TODO will be assigned with id 1 | request #1
+11-07-2023 21:48:08.912 INFO: Creating new TODO with Title [kk] | request #3
+11-07-2023 22:01:11.991 ERROR: Can’t create new TODO with a due date in the past | request #1
+11-07-2023 22:06:47.364 INFO: Creating new TODO with Title [undefined] | request #1
+11-07-2023 22:06:47.365 DEBUG: Currently there are 0 TODOs in the system. New TODO will be assigned with id 1 | request #1
+11-07-2023 22:07:11.972 ERROR: Can’t create new TODO with a due date in the past | request #2
+11-07-2023 22:09:51.749 ERROR: Can’t create new TODO with a due date in the past | request #1
+11-07-2023 22:14:03.438 ERROR: Can’t create new TODO with a due date in the past | request #1
+11-07-2023 22:21:29.579 ERROR: Can’t create new TODO with a due date in the past | request #1
+11-07-2023 22:23:05.127 INFO: Creating new TODO with Title [b] | request #3
+11-07-2023 22:23:53.275 ERROR: TODO with the title [b] already exists in the system | request #4
+11-07-2023 22:33:54.055 INFO: Creating new TODO with Title [ll] | request #1
+11-07-2023 22:33:54.056 DEBUG: Currently there are 0 TODOs in the system. New TODO will be assigned with id 1 | request #1
+11-07-2023 22:34:03.712 INFO: Creating new TODO with Title [aa] | request #2
+11-07-2023 22:34:03.716 DEBUG: Currently there are 1 TODOs in the system. New TODO will be assigned with id 2 | request #2
+11-07-2023 22:34:25.970 INFO: Update TODO id [1] state to LATE | request #3
+11-07-2023 22:34:25.974 DEBUG: Todo id [1] state change: PENDING --> LATE | request #3
+11-07-2023 22:34:59.159 ERROR: no such TODO with id 19 | request #4
+11-07-2023 22:35:20.666 INFO: Update TODO id [1] state to DONE | request #5
+11-07-2023 22:35:20.667 DEBUG: Todo id [1] state change: LATE --> DONE | request #5
+11-07-2023 22:35:38.065 ERROR: undefined | request #6
+11-07-2023 22:36:51.388 ERROR: Error: no such TODO with id 16 | request #7
+11-07-2023 22:36:59.955 INFO: Removing todo id 1 | request #8
+11-07-2023 22:36:59.956 DEBUG: After removing todo id [1] there are 1 TODOs in the system | request #8
+11-07-2023 22:38:04.109 INFO: Creating new TODO with Title [aa] | request #1
+11-07-2023 22:38:04.109 DEBUG: Currently there are 0 TODOs in the system. New TODO will be assigned with id 1 | request #1
+11-07-2023 22:38:16.226 INFO: Creating new TODO with Title [eee] | request #2
+11-07-2023 22:38:16.229 DEBUG: Currently there are 1 TODOs in the system. New TODO will be assigned with id 2 | request #2
+11-07-2023 22:41:38.682 INFO: Creating new TODO with Title [eee] | request #1
+11-07-2023 22:41:38.682 DEBUG: Currently there are 0 TODOs in the system. New TODO will be assigned with id 1 | request #1
+11-07-2023 22:41:43.456 INFO: Creating new TODO with Title [eerrrre] | request #2
+11-07-2023 22:41:43.457 DEBUG: Currently there are 1 TODOs in the system. New TODO will be assigned with id 2 | request #2
+11-07-2023 22:42:21.120 ERROR: Bad Request: Invalid status parameter. | request #3
+11-07-2023 22:44:43.530 INFO: Creating new TODO with Title [eerrrre] | request #1
+11-07-2023 22:44:43.531 DEBUG: Currently there are 0 TODOs in the system. New TODO will be assigned with id 1 | request #1
+11-07-2023 22:44:48.682 INFO: Creating new TODO with Title [eerrWWWrre] | request #2
+11-07-2023 22:44:48.683 DEBUG: Currently there are 1 TODOs in the system. New TODO will be assigned with id 2 | request #2
+11-07-2023 22:45:08.014 ERROR: Bad Request: Invalid status parameter. | request #3
+11-07-2023 22:45:55.904 INFO: Creating new TODO with Title [undefined] | request #1
+11-07-2023 22:45:55.905 DEBUG: Currently there are 0 TODOs in the system. New TODO will be assigned with id 1 | request #1
+11-07-2023 22:46:02.012 INFO: Creating new TODO with Title [eerrWWWrre] | request #2
+11-07-2023 22:46:02.013 DEBUG: Currently there are 1 TODOs in the system. New TODO will be assigned with id 2 | request #2
+11-07-2023 22:46:11.450 INFO: Creating new TODO with Title [qqq] | request #3
+11-07-2023 22:46:11.451 DEBUG: Currently there are 2 TODOs in the system. New TODO will be assigned with id 3 | request #3
+11-07-2023 22:46:22.550 INFO: Creating new TODO with Title [nn] | request #4
+11-07-2023 22:46:22.552 DEBUG: Currently there are 3 TODOs in the system. New TODO will be assigned with id 4 | request #4
+11-07-2023 22:46:39.364 ERROR: Bad Request: Invalid status parameter. | request #5
+11-07-2023 22:46:51.420 INFO: Total TODOs count for state PENDING is 4 | request #6
+11-07-2023 22:47:12.936 ERROR: Bad Request: Invalid status parameter. | request #7
+11-07-2023 22:47:23.796 ERROR: Bad Request: Invalid sortBy parameter. | request #8
+11-07-2023 22:47:34.304 INFO: Extracting todos content. Filter: PENDING | Sorting by: ID | request #9
+11-07-2023 22:47:34.308 DEBUG: There are a total of 4 todos in the system. The result holds 4 todos | request #9
+11-07-2023 22:47:43.355 INFO: Extracting todos content. Filter: PENDING | Sorting by: TITLE | request #10
+11-07-2023 22:47:43.356 DEBUG: There are a total of 4 todos in the system. The result holds 4 todos | request #10
+11-07-2023 22:48:15.907 INFO: Extracting todos content. Filter: PENDING | Sorting by: DUE_DATE | request #11
+11-07-2023 22:48:15.911 DEBUG: There are a total of 4 todos in the system. The result holds 4 todos | request #11
+11-07-2023 22:49:20.409 ERROR: no such TODO with id 14 | request #12
+11-07-2023 22:49:30.991 ERROR: Bad Request: Invalid status parameter. | request #13
+11-07-2023 22:49:44.502 INFO: Update TODO id [1] state to LATE | request #14
+11-07-2023 22:49:44.504 DEBUG: Todo id [1] state change: PENDING --> LATE | request #14
+11-07-2023 22:51:24.169 INFO: Creating new TODO with Title [nnggg] | request #17
+11-07-2023 22:51:24.171 DEBUG: Currently there are 4 TODOs in the system. New TODO will be assigned with id 5 | request #17
+11-07-2023 22:52:17.856 INFO: Creating new TODO with Title [nngggfff] | request #19
+11-07-2023 22:52:17.858 DEBUG: Currently there are 5 TODOs in the system. New TODO will be assigned with id 6 | request #19
+11-07-2023 22:53:25.159 INFO: Creating new TODO with Title [nngggfff] | request #1
+11-07-2023 22:53:25.159 DEBUG: Currently there are 0 TODOs in the system. New TODO will be assigned with id 1 | request #1
+11-07-2023 22:53:35.890 ERROR: Bad Request: Invalid status parameter. | request #2
+11-07-2023 22:58:20.806 INFO: Creating new TODO with Title [undefined] | request #1
+11-07-2023 22:58:20.808 DEBUG: Currently there are 0 TODOs in the system. New TODO will be assigned with id 1 | request #1
+11-07-2023 22:58:25.584 INFO: Creating new TODO with Title [nngggfff] | request #2
+11-07-2023 22:58:25.585 DEBUG: Currently there are 1 TODOs in the system. New TODO will be assigned with id 2 | request #2
+11-07-2023 22:58:31.990 INFO: Creating new TODO with Title [ee] | request #3
+11-07-2023 22:58:31.991 DEBUG: Currently there are 2 TODOs in the system. New TODO will be assigned with id 3 | request #3
+11-07-2023 23:00:12.671 INFO: Creating new TODO with Title [tt] | request #5
